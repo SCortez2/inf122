@@ -1,3 +1,3 @@
 Nombre: Sergio Cortez
 Materia: inf122
-color: #03c03c
+color favorito: #00fa9a

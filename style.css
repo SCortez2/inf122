@@ -1,17 +1,22 @@
 body{
-    background-color: #555555;
+    background-color: #c7cad0;
 }
 h1{
-    color: rgb(255,0,0);
+    /*color: rgba(223, 24, 24, 0.822);
+    color: #DFF6FF;
     font-size: 25px;
     font-family: 'Segoe UI';
-    background-color: black;
+    background-color: black;*/
+    color: #bc6cd9;
+}
+h2{
+    color: #bc6cd9;
 }
 p{
     font-size: large;
     text-align: center;
     font-weight: bold;
-    color: rgb(rgba(105, 69, 129, 0.205), rgb(0, 109, 128), rgba(0, 0, 255, 0.233));
+    color: rgb(76,108,153);
 }
 img{
     max-width: 25%;
@@ -29,8 +34,9 @@ ul li{
 }
 .enviar{
     border-radius: 5px;
-    background-color: rgb(0,0, 255);
+    background-color: #6ded74;
+    color: #272625;
 }
 .etiqueta{
-    font-size: blue;
+    background-color: #db98d0;
 }
